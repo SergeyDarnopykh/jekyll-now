@@ -1,10 +1,6 @@
 ---
 layout: post
-title: It's my first post!
+title: Happy new year, everyone!
 ---
 
-And I've written something here.
-
-And some more.
-
-And more...
+Yeah, like anyone will ever read it. .. ...

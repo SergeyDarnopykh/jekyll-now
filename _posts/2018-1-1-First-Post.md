@@ -1,6 +1,53 @@
 ---
 layout: post
-title: Happy new year, everyone!
+title: Spend New Year the right way `#MP1`
 ---
 
-Yeah, like anyone will ever read it. .. ...
+Some songs that you can listen on New Year's Eve.
+
+# Song list
+[Listen online](https://play.google.com/music/playlist/AMaBXynot0uTFBSQlvJxdYIlshQ3ZhF1nHI9n747TtVuBcdExqd5TM1LFPLh9ztuVMHqwtTw6z7PKrFa-NS5XVuy7yos1Lcw6A%3D%3D)
+
+1. Let it Snow - Frank Sinatra
+2. Last Christmas - First To Eleven (cover)
+3. Christmas Lights - Coldplay
+4. Happy New Year - ABBA
+5. Merry Christmas Everyone - Shakin' Stevens
+6. Christmas Every Day - Simple Plan
+7. Bring Me To Life - Evanescence
+8. If You Only Knew - Shinedown
+9. Crushcrushcrush - Paramore
+10. Throne - Bring Me The Horizon
+
+## Let it Snow
+If you don't have any Snow on New Year's Eve - welcome to my world.
+Get yourself some of the holiday's spirit by listening to this song.
+
+## Last Christmas
+Original is great by itself, but this cover rocked my heart. There's also
+a [video](https://www.youtube.com/watch?v=IvAbKoKYTfE), 
+and I `highly` recommend you to watch it.
+
+## Christmas Lights
+Just cool song from a band that I listen to from time to time, and it's
+pretty christmassy.
+
+## Happy New Year, Merry Chrismas Everyone
+Another 2 classics, another `+` for your holiday's spirit.
+
+## Christmas Every Day
+Cool sounding song that I like and enjoy listening to around Christmas.
+
+## Bring Me To Life
+Turn this on at exactly 11:59:08 P.M. and the first `Wake me Up` will play 
+at exactly midnight. Start New Year the right way!
+
+## If You Only Knew
+No relation to Christmas at all, but I just like this song, and why you should not listen
+to a cool song on holidays?
+
+## Crushcrushcrush
+Again, nothing christmassy, but a long of energy `guaranteed` after listening to this song.
+
+## Throne
+Everything is gonna build your `throne` in New Year.

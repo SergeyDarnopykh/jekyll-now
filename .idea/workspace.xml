@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4d2ab9a-49b9-48bd-844a-a2f73b20ae7b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_posts/2014-3-3-Hello-World.md" afterPath="" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-1-1-First-Post.md" afterPath="$PROJECT_DIR$/_posts/2018-1-1-First-Post.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -74,9 +72,9 @@
       <file leaf-file-name="2018-1-1-First-Post.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-1-1-First-Post.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="130">
-                <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="494">
+                <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -279,12 +277,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514730737100</updated>
-      <workItem from="1514730739718" duration="5941000" />
+      <workItem from="1514730739718" duration="8504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5941000" />
+    <option name="totallyTimeSpent" value="8504000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
@@ -455,9 +453,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-1-1-First-Post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="130">
-            <caret line="5" column="43" lean-forward="false" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="494">
+            <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />

@@ -14,11 +14,19 @@ $gray: #666;
 $lightGray: #eee;
 $white: #fff;
 $peach: #E84E61;
+$orange: #E8945A;
+$ocher: #D19386;
+$purple: #D18CCA;
+$violet: #B55AE8;
+$greyish: #E9EAEE;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$roboto: 'Roboto', sans-serif;
+$gothic: 'Didact Gothic', sans-serif;
+$oswald: 'Oswald', sans-serif;
 
 // Mobile breakpoints
 @mixin mobile {

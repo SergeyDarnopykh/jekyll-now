@@ -1,3 +1,2 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi consequuntur culpa, ducimus ex nesciunt, numquam odit quia ratione recusandae reiciendis saepe suscipit, ut veniam? Consequatur cum in provident sequi similique!
+![Entry Postt](/assets/images/first-post.png "First Post") <br><br>"I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 
-The post itself.
